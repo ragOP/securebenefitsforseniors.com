@@ -35,9 +35,9 @@ a{
   // }
   
   .footer2{
-    row-gap: 1rem;
+   
     margin-top: 44rem;
-    padding: 1rem;
+ 
     max-width: 48rem;
     column-gap: 1rem;
     font-size: .875rem;
@@ -455,7 +455,6 @@ a{
   }
   
   .footer2 {
-    row-gap: 1rem;
     margin-top: 44rem; /* Adjusted margin for better spacing */
     padding: 1rem;
     max-width: 48rem;
